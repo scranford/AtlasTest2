@@ -1,2 +1,3 @@
 # stcranford dvcs testing
-editing the file
+Adding Text
+asdasdadasd
